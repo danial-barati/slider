@@ -2,7 +2,7 @@
 
 ** making slider with css animation **
 
-![view](https://github.com/danial-barati/cube/assets/104683176/986f8243-e2c1-477e-a5b1-e8413cef8a5e)
+![view](https://github.com/danial-barati/slider/assets/104683176/ab10654d-f44a-4060-8fea-cb89655e9915)
 
 - 🔗 [demo](https://danial-barati.github.io/cube/)
 
